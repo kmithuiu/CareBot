@@ -1,4 +1,4 @@
-# 🏥 AI-Powered Doctor Appointment Assistant
+# 🏥 Doctor Appointment AI-Powered Assistant
 
 An **AI-powered assistant** that helps doctors streamline appointment bookings and improve the overall patient experience.
 
@@ -119,10 +119,10 @@ Simply type a message (e.g., *“I have a skin disease”*) in the chat box.
 
 ## 👨‍💻 Author
 
-**Omar Faruk**
-📧 [omar.iut.09@gmail.com](mailto:omar.iut.09@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/omariut)
+**Kamruzzaman Mithu**
+📧 [kmithu.mle@gmail.com](mailto:kmithu.mle@gmail.com)
+🔗 [LinkedIn]([https://linkedin.com/in/omariut](https://www.linkedin.com/in/kmithuiu/))
 
 ---
 
-⭐ If you found this project interesting, don’t forget to **star this repo**!
+# Thank you!
