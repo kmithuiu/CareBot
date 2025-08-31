@@ -68,8 +68,8 @@ sequenceDiagram
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-doctor-assistant.git
-cd ai-doctor-assistant
+git clone https://github.com/kmithuiu/CareBot.git
+cd CareBot
 ```
 
 ### 2️⃣ Setup Virtual Environment
@@ -121,7 +121,7 @@ Simply type a message (e.g., *“I have a skin disease”*) in the chat box.
 
 **Kamruzzaman Mithu**
 📧 [kmithu.mle@gmail.com](mailto:kmithu.mle@gmail.com)
-🔗 [LinkedIn]([https://linkedin.com/in/omariut](https://www.linkedin.com/in/kmithuiu/))
+🔗 [LinkedIn](https://www.linkedin.com/in/kmithuiu/)
 
 ---
 
